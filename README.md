@@ -2,7 +2,7 @@
 
 ## Goal:
 Pug is a CLI tool giving you the user the ability to trace Microsoft domain privileges.
-From mapping the privileges on a specific user to mapping the difference between two "snapshots" (in different time spans) Pug will help you the IR or blue team to better focus your effort and to easily find the backdoor.
+From mapping the privileges on a specific user to mapping the difference between two "snapshots" (in different time spans) Pug will help you the IR or blue team to better focus your effort and to easily find backdoors.
 
 ## perquisites:
 please install the following library’s for python 3.8:
