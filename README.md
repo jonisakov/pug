@@ -6,18 +6,17 @@ From mapping the privileges on a specific user to mapping the difference between
 
 ## perquisites:
 please install the following library’s for python 3.8:
-pip install networkx
-pip install matplotlib
-pip install argparse
-pip install re
-pip install datetime
-pip install glob
-pip install os
-pip install string
+1) pip install networkx
+2) pip install matplotlib
+3) pip install argparse
+4) pip install re
+5) pip install datetime
+6) pip install glob
+7) pip install os
+8) pip install string
 
 please install the following for the PowerShell script:
-Install-WindowsFeature RSAT-AD-PowerShell
-(install the active directory module for Powershell)
+1) Install-WindowsFeature RSAT-AD-PowerShell (install the active directory module for Powershell)
 
 ## how to use:
 1) run the powershell script as admin (best to do as a schedualed task on the server)
